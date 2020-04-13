@@ -1,0 +1,6 @@
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\jaffe\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
